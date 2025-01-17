@@ -2,8 +2,8 @@
 I have developed a dynamic web application that generates QR codes from user-provided text or URLs.
 
 Screenshots of the Project- 
-![Screenshot (3127)](https://github.com/user-attachments/assets/7191df84-0db1-46c2-af5c-e91132bd9b4f)
+![image](https://github.com/user-attachments/assets/417b8a81-7f2d-486c-895f-ec9547a296c1)
 
-![Screenshot (3129)](https://github.com/user-attachments/assets/3eefa362-2ae7-48e1-8361-6dcbcd0af2e2)
+![image](https://github.com/user-attachments/assets/70adc218-2d13-46ae-ac73-b52f86f7b974)
 
-![Screenshot (3130)](https://github.com/user-attachments/assets/0fcd5fe7-7c56-4b6a-8efb-7387d9694e62)
+![image](https://github.com/user-attachments/assets/b2402ea1-76b9-4e5a-884c-83901e24648f)
